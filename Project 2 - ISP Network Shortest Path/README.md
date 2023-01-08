@@ -1,7 +1,5 @@
 # Advanced Programming - 241 
 __Project 2: Analyzing ISP Network Nodes__
-
-__Tasks Completed:__
 - Created a Stock class to hold stocks and their attributes as objects
 - Implemented ___str___ function to display stock information in a string
 - Created a __StockLibrary__ class to hold dataset of stock objects
