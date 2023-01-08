@@ -3,7 +3,7 @@ Project 2: Analyzing ISP Network Nodes
 
 Tasks Completed:
 - Created a Stock class to hold stocks and their attributes as objects
-- Implemented __str__(self) function to display stock information in a string
+- Implemented ___str___ function to display stock information in a string
 - Created a StockLibrary class to hold dataset of stock objects
 - Inplemented loadData function to take in stock information from a CSV file
 - Implemented a linearSearch function to find stocks in library based on name or symbol
