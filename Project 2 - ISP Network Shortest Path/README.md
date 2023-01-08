@@ -1,7 +1,7 @@
 
 # Project 2: Storing, Searching, and Analysing ISP Network Nodes
-- Created a Stock class to hold stocks and their attributes as objects
-- Implemented ___str___ function to display stock information in a string
+- Created a ISPNetwork class to hold Network objects
+\t Implemented ___str___ function to display stock information in a string
 - Created a __StockLibrary__ class to hold dataset of stock objects
 - Inplemented a __loadData__ function to take in stock information from a CSV file
 - Implemented a __linearSearch__ function to find stocks in library based on name or symbol
